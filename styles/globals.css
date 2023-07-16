@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hr1{
+    width: 30rem;;
+}
+
+.b1{
+    margin-right: 40rem;;
+    margin-top: 1rem;
+}
+
